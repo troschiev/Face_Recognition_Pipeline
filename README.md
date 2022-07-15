@@ -41,10 +41,12 @@ Dataset - [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
 The good:
 - *relatively small (compared to MS-celeb-1M)*
 - has about 10 000 people
+
 The bad:
 - some people have only 1-2 photos
 - some photos are low-res
 - doesn't contain names for persons
+
 The ugly:
 - doesn't have much image diversity for each person
 
