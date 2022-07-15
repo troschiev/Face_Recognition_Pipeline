@@ -83,12 +83,12 @@ The ugly:
     
 ## Some training data :wrench:
 
-This is the resulting cosine similarity distribution for people model has not seen during the training:
+This is the resulting cosine similarity distribution for people model has not seen during the training.
 
 ![cos_sim](unseen_faces_similarity_distrib.png)
 
 Metric: TPR@FPR=0.01: 0.859, threshold 0.369
 
-Learning curve for arcface loss:
+Learning curve for arcface loss.
 
 ![cos_sim](arcface_learning_curve.png)
